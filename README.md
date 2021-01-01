@@ -53,8 +53,8 @@ Some highlights are:
 1. Inferential Statistics
 2. Central Limit Theorem
 3. Hypothesis Testing 
-        *Null Hypothesis
-        *Alternate Hypothesis
+        1. Null Hypothesis
+        2. Alternate Hypothesis
 4. Errors in Hypothesis Testing
 5. ANOVA( Analysis of Variance)
 6. Regression
@@ -69,11 +69,11 @@ In the past few days I have brushed my existing knowledge of Python and now I am
 So far I have explored.
 1. Python Basics
 2. Python for Data Analysis
-        *Numpy
-        *Panda's
+        1. Numpy
+        2. Panda's
 3. Python for Data Visualization
-        *Matplotlib
-        *Seaborn
+        1. Matplotlib
+        2. Seaborn
 I am following a Course on Udemy named "Python for Data Science and Machine Learning Bootcamp" By  Jose Portilla
 
 :+1: :sparkles: :rocket: :octocat:
