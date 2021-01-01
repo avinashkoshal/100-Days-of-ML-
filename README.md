@@ -1,6 +1,7 @@
 # 100 days of ML
 
 **My week 1/15(100 day of ML)**
+
 During this week I learned so many thing about linear Algebra.
 Some of the highlights are: 
 1. Vector (Addition, subtraction,multiplication by a Scalar) Representation on a Graph.
@@ -16,6 +17,7 @@ They made it some simple with visual graphical representation.
 -----------------------------------------------------------------------
 
 **Week - 2/15 ( 100 days of ML )**
+
 This whole week is kind of different.
 Instead of learning formulaes, I learned how they come in first place.
 Some of the highlights are:
@@ -31,6 +33,7 @@ I referred 3Blue1Brown - Essence of Calcus and some blogs on medium, on particul
 ----------------------------------------------------------------------
 
 **Week - 3/15  ( 100 days of ML )**
+
 During this week Learned about Probability.
 Some of the highlights are:
 1. Random Variables
@@ -44,13 +47,14 @@ This week I have gone through some books and blogs.
 
 ----------------------------------------------------------------------
 **Week - 4/15 ( 100 days of ML )**
+
 This week is all about Statistics.
 Some highlights are:
 1. Inferential Statistics
 2. Central Limit Theorem
 3. Hypothesis Testing 
-        * Null Hypothesis
-        * Alternate Hypothesis
+        *Null Hypothesis
+        *Alternate Hypothesis
 4. Errors in Hypothesis Testing
 5. ANOVA( Analysis of Variance)
 6. Regression
@@ -59,18 +63,17 @@ Some highlights are:
 Resources used : Analytics Vidhya, medium blogs and YouTube.
 
 **Week - 5 / 15 (100 days of ML)**
+
 I have decided to dedicate this month for Python
 In the past few days I have brushed my existing knowledge of Python and now I am diving deep into Particular libraries.
 So far I have explored.
 1. Python Basics
 2. Python for Data Analysis
-        * Numpy
-        * Panda's
+        *Numpy
+        *Panda's
 3. Python for Data Visualization
-        * Matplotlib
-        * Seaborn
-
+        *Matplotlib
+        *Seaborn
 I am following a Course on Udemy named "Python for Data Science and Machine Learning Bootcamp" By  Jose Portilla
-
 
 :+1: :sparkles: :rocket: :octocat:
