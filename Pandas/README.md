@@ -1,3 +1,4 @@
+
 # Pandas
 
 We will learn how to use pandas for data analysis. You can think of pandas as an extremely powerful version of Excel, with a lot more features.
@@ -26,3 +27,4 @@ We will learn how to use pandas for data analysis. You can think of pandas as an
     Operations
     Data Input and Output
 
+Data analysis on some Open data available on Kaggle
