@@ -71,11 +71,15 @@ In the past few days I have brushed my existing knowledge of Python and now I am
 So far I have explored.
 1. Python Basics
 2. Python for Data Analysis
+   ```
         1. Numpy
         2. Panda's
+        ```
 3. Python for Data Visualization
+     ```
         1. Matplotlib
         2. Seaborn
+        ```
 I am following a Course on Udemy named "Python for Data Science and Machine Learning Bootcamp" By  Jose Portilla
 
 ----------------------------------------------------------------------
@@ -86,10 +90,12 @@ I have decided to dedicate this month for Python
 In constitution to previous week, I have explored:
 
 1. Python for Data Visualization
-        1. Cufflinks
-        2. Plotly
-        3. Geographical Plotting.
+   ```
+      1. Cufflinks
+      2. Plotly
+      3. Geographical Plotting.
+     ```
 2. Did some Data Analysis and Visualization on Datasets available on Kaggle.
-
+3. I am maintaing a repo on Github do check this out https://github.com/aaavinash85/100-Days-of-ML-
 
 :+1: :sparkles: :rocket: :octocat:
