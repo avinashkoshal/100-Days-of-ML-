@@ -101,13 +101,15 @@ In contiunation to previous week, I have explored:
 ----------------------------------------------------------------------
 
 **Week - 7 / 15 (100 days of ML)**
+During this week.
 
 1. I have analyzed 911 call data from Kaggle
+   - Pandas
+   - Saaborn
 
 2. Finance Data Project
     - exploratory data analysis of stock prices
     - practice your visualization and pandas skills
 - Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
-
 
 :+1: :sparkles: :rocket: :octocat:
