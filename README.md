@@ -98,4 +98,16 @@ In contiunation to previous week, I have explored:
 2. Did some Data Analysis and Visualization on Datasets available on Kaggle.
 3. I am maintaing a repo on Github do check this out https://github.com/aaavinash85/100-Days-of-ML-
 
+----------------------------------------------------------------------
+
+**Week - 7 / 15 (100 days of ML)**
+
+1. I have analyzed 911 call data from Kaggle
+
+2. Finance Data Project
+    - exploratory data analysis of stock prices
+    - practice your visualization and pandas skills
+- Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
+
+
 :+1: :sparkles: :rocket: :octocat:
