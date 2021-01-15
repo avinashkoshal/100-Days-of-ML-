@@ -105,7 +105,7 @@ During this week.
 
 1. I have analyzed 911 call data from Kaggle
    - Pandas
-   - Saaborn
+   - Seaborn
 
 2. Finance Data Project
     - exploratory data analysis of stock prices
