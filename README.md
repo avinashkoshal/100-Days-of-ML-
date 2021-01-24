@@ -112,4 +112,22 @@ During this week.
     - practice your visualization and pandas skills
 - Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
 
+----------------------------------------------------------------------
+
+**Week - 8 / 15 (100 days of ML)**
+I started with ML
+
+1. Introduction to ML
+2. Linear Regression
+    - Data preparation
+    - Data Visualization
+    - Defining a Model
+    - Model Training
+    - Model Evaluation
+    - Predciotn on trained Model
+- Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
+
+
+
+
 :+1: :sparkles: :rocket: :octocat:
