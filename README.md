@@ -110,7 +110,7 @@ During this week.
 2. Finance Data Project
     - exploratory data analysis of stock prices
     - practice your visualization and pandas skills
-- Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
+- Jupyter notebooks are available on my Github
 
 ----------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ I started with ML
     - Model Training
     - Model Evaluation
     - Predciotn on trained Model
-- Jupyter notebooks are available on my Github [https://github.com/aaavinash85/100-Days-of-ML-]
+- Jupyter notebooks are available on my Github 
 
 
 
