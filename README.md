@@ -139,10 +139,10 @@ I started with ML
         - Exploratory Data Analysis
         - Cufflinks for plots
         - Converting Categorical Features
-     ```
+      ```  
     - Worked on fake advertising data set
      ```
-      We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+      Created a model that will predict whether or not people will click on an ad based off the features of that user.
 
         This data set contains the following features:
 
@@ -156,10 +156,9 @@ I started with ML
         * 'Country': Country of consumer
         * 'Timestamp': Time at which consumer clicked on Ad or closed window
         * 'Clicked on Ad': 0 or 1 indicated clicking on Ad
-   ```
+     ```
 - Jupyter notebooks are available on my Github 
 
-
-
+----------------------------------------------------------------------
 
 :+1: :sparkles: :rocket: :octocat:
