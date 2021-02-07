@@ -170,11 +170,13 @@ This week I have learned:
 2. Decision Tree and Random Forests
 3. Support Vector Machines
 4. K-means Clustering
+    ```
       I have made a video on k-means hands on
       using cv2 library and uploaded on youtube
       please have a look.
- 
- 
+      https://www.youtube.com/watch?v=j2mXrnPZmbg&feature=youtu.be
+    ```
+
 - Jupyter notebooks are available on my Github
 
 ----------------------------------------------------------------------
