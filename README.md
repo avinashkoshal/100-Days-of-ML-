@@ -161,4 +161,22 @@ I started with ML
 
 ----------------------------------------------------------------------
 
+
+**Week - 10 / 15 (100 days of ML)**
+
+This week I have learned:
+
+1. K Nearest Neighbors
+2. Decision Tree and Random Forests
+3. Support Vector Machines
+4. K-means Clustering
+      I have made a video on k-means hands on
+      using cv2 library and uploaded on youtube
+      please have a look.
+ 
+ 
+- Jupyter notebooks are available on my Github
+
+----------------------------------------------------------------------
+
 :+1: :sparkles: :rocket: :octocat:
