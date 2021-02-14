@@ -185,7 +185,8 @@ This week I have learned:
 
 This week I have learned Natural Language Processing (NLP)
 
-NLP with Python
+- NLP with Python
+  ``` 
       - Exploratory Data Analysis
       - Data Visualization
       - Text Pre-processing
@@ -193,8 +194,8 @@ NLP with Python
       - Vectorization
       - TF-IDF (term frequency-inverse document frequency)
       - Data Pipeline
-      
-classifying Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
+  ```
+- Classifying Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
 - Jupyter notebooks are available on my Github
 
