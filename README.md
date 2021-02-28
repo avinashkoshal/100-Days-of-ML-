@@ -199,6 +199,20 @@ This week I have learned Natural Language Processing (NLP)
 
 - Jupyter notebooks are available on my Github
 
+-----------------------------------------------------------------------
+
+**Week - 12-13 / 15 (100 days of ML)**
+
+These two weeks I explored Tensorflow
+
+- Basic Image Classification - Fashion MNIST dataset
+- Basic Text Classification Movie reviews
+- Basic regression: Predict fuel efficiency
+- Overfit and underfit
+- Keras Tuner
+
+- Jupyter notebooks are available on my Github
+
 ----------------------------------------------------------------------
 
 :+1: :sparkles: :rocket: :octocat:
