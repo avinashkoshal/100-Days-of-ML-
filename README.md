@@ -229,7 +229,9 @@ Here are the some projects that I have worked on.
 - Bigmart sales prediction
 
 This marks the ending of my 100 days of ML. In the last 100 days I worked to enchance my ML skills and apart from this I also explored many areas. 
- 
+
+Now I will start reading books that I have downloaded 5-6 months back but never opened. 
+
 - Jupyter notebooks are available on my Github
 
 ----------------------------------------------------------------------
