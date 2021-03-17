@@ -215,4 +215,24 @@ These two weeks I explored Tensorflow
 
 ----------------------------------------------------------------------
 
+
+**Week - 14-15 / 15 (100 days of ML)**
+
+In these last two weeks my focus was on hands on and I spend most of my time on colab and kaggle.
+Here are the some projects that I have worked on.
+
+- Cartoonify an Image
+- Image Segmentation
+- Bitcoin Price Prediction
+- Loan prediction
+- Sentiment Analysis
+- Bigmart sales prediction
+
+This marks the ending of my 100 days of ML. In the last 100 days I worked to enchance my ML skills and apart from this I also explored many areas. 
+ 
+- Jupyter notebooks are available on my Github
+
+----------------------------------------------------------------------
+
 :+1: :sparkles: :rocket: :octocat:
+
