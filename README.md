@@ -11,7 +11,7 @@ Some of the highlights are:
 5. Linear Dependence
 6. Subspace
 7. Cool things about Matrix
-I referred Khan Academy(this was my first time) and I love how they teach. 
+I referred Khan Academy (this was my first time) and I love how they teach. 
 They made it some simple with visual graphical representation.
 
 -----------------------------------------------------------------------
@@ -53,13 +53,16 @@ Some highlights are:
 1. Inferential Statistics
 2. Central Limit Theorem
 3. Hypothesis Testing 
+    ```
         1. Null Hypothesis
         2. Alternate Hypothesis
+    ```
 4. Errors in Hypothesis Testing
 5. ANOVA( Analysis of Variance)
 6. Regression
 7. R-Square
 8. Correlation coefficient
+
 Resources used : Analytics Vidhya, medium blogs and YouTube.
 
 ----------------------------------------------------------------------
@@ -110,6 +113,7 @@ During this week.
 2. Finance Data Project
     - exploratory data analysis of stock prices
     - practice your visualization and pandas skills
+    
 - Jupyter notebooks are available on my Github
 
 ----------------------------------------------------------------------
@@ -126,6 +130,7 @@ I started with ML
     - Model Training
     - Model Evaluation
     - Predciotn on trained Model
+
 - Jupyter notebooks are available on my Github 
 
 ----------------------------------------------------------------------
